@@ -1,0 +1,22 @@
+{
+  "name": "musical-waddle-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-harris-iii/musical-waddle-note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-harris-iii/musical-waddle-note/issues"
+  },
+  "homepage": "https://github.com/john-harris-iii/musical-waddle-note#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
